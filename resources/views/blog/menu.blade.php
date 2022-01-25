@@ -115,13 +115,13 @@
                 <div class="menu-tab">
                     <ul class="nav nav-pills justify-content-center">
                         <li class="nav-item">
-                            <a class="nav-link active" data-toggle="pill" href="#burgers">Burgers</a>
+                            <a class="nav-link active" data-toggle="pill" href="#burgers">Comida</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="pill" href="#snacks">Snacks</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="pill" href="#beverages">Beverages</a>
+                            <a class="nav-link" data-toggle="pill" href="#beverages">Bebidas</a>
                         </li>
                     </ul>
                     <div class="tab-content">
