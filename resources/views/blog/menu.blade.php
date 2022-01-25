@@ -29,7 +29,7 @@
         <!-- Nav Bar Start -->
         <div class="navbar navbar-expand-lg bg-light navbar-light">
             <div class="container-fluid">
-                <a href="index.html" class="navbar-brand">Burger <span>King</span></a>
+                <a href="index.html" class="navbar-brand">La <span>Jaiba</span></a>
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2>Food Menu</h2>
+                        <h2>Menu</h2>
                     </div>
                     <div class="col-12">
                         <a href="">Home</a>
@@ -71,32 +71,32 @@
                 <div class="row align-items-center">
                     <div class="col-md-4">
                         <div class="food-item">
-                            <i class="flaticon-burger"></i>
-                            <h2>Burgers</h2>
+                           <img src ="/img/cangrejo.PNG"Alt="">
+                            <h2>Mariscos</h2>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non vulputa. Aliquam metus tortor auctor quis sem. 
+                            Deleita tu paladar con nuestro delicioso sabor a mar y tierra 
                             </p>
-                            <a href="">View Menu</a>
+                           
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="food-item">
-                            <i class="flaticon-snack"></i>
-                            <h2>Snacks</h2>
+                            <img src ="/img/postre.PNG"Alt="">
+                            <h2>Postres</h2>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non vulputa. Aliquam metus tortor auctor quis sem. 
+                                Endulza tu paladar con nuestros ricos postres, todo preparado con las medidas de higiene necesarias para ti.
                             </p>
-                            <a href="">View Menu</a>
+                           
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="food-item">
-                            <i class="flaticon-cocktail"></i>
-                            <h2>Beverages</h2>
+                           <img src ="/img/bebida.PNG"Alt="">
+                            <h2>Bebidas</h2>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non vulputa. Aliquam metus tortor auctor quis sem. 
+                                Prueba nuestras bebidas, tenemos una gran variedad.
                             </p>
-                            <a href="">View Menu</a>
+                            
                         </div>
                     </div>
                 </div>
@@ -130,52 +130,52 @@
                                 <div class="col-lg-7 col-md-12">
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-burger.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Mini cheese Burger</span> <strong>$9.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Caldo</span> <strong>$80.00</strong></h3>
+                                            <p>Camaron, Pescado, almeja, jaiba </p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-burger.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Double size burger</span> <strong>$11.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Cocteles</span> <strong>$120.00</strong></h3>
+                                            <p>Camaron, Campechana,Ostion,Vuelve a la vida</p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-burger.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Bacon, EGG and Cheese</span> <strong>$13.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Filetes</span> <strong>$220.00</strong></h3>
+                                            <p>a la mantequilla, a la diabla, empanizado, empapelado, relleno, a la plancha</p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-burger.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Pulled porx Burger</span> <strong>$18.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Ceviche</span> <strong>$150.00</strong></h3>
+                                            <p>Jaiba, pescado, ostion</p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-burger.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Fried chicken Burger</span> <strong>$22.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Camarones</span> <strong>$200.00</strong></h3>
+                                            <p>Empanizados, Al mojo de Ajo, Al Ajillo, A la Diabla, A la Mantequilla</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-block">
-                                    <img src="img/menu-burger-img.jpg" alt="Image">
+                                    <img src="img/coctel.PNG" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -184,43 +184,34 @@
                                 <div class="col-lg-7 col-md-12">
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-snack.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Corn Tikki - Spicy fried Aloo</span> <strong>$15.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Fresas con Crema</span> <strong>$50.00</strong></h3>
+                                            <p></p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-snack.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Bread besan Toast</span> <strong>$35.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Platanos con Crema</span> <strong>$50.00</strong></h3>
+                                            <p></p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-snack.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Healthy soya nugget snacks</span> <strong>$20.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
-                                        </div>
-                                    </div>
-                                    <div class="menu-item">
-                                        <div class="menu-img">
-                                            <img src="img/menu-snack.jpg" alt="Image">
-                                        </div>
-                                        <div class="menu-text">
-                                            <h3><span>Tandoori Soya Chunks</span> <strong>$30.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Flan</span> <strong>$50.00</strong></h3>
+                                            <p></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-block">
-                                    <img src="img/menu-snack-img.jpg" alt="Image">
+                                    <img src="img/flan.PNG" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -229,52 +220,52 @@
                                 <div class="col-lg-7 col-md-12">
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-beverage.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Single Cup Brew</span> <strong>$7.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>carajillos</span> <strong>$50.00</strong></h3>
+                                            <p></p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-beverage.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Caffe Americano</span> <strong>$9.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Cafe</span> <strong>$25.00</strong></h3>
+                                            <p></p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-beverage.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Caramel Macchiato</span> <strong>$15.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Refrescos</span> <strong>$25.00</strong></h3>
+                                            <p>Broing(Mango, Guayaba), Coca- Cola, Sangria, Fanta. </p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-beverage.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Standard black coffee</span> <strong>$8.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Agua Mineral </span> <strong>$50.00</strong></h3>
+                                            <p>Naranja , Limon</p>
                                         </div>
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/menu-beverage.jpg" alt="Image">
+                                            <img src="img/jaiba.PNG" alt="Image">
                                         </div>
                                         <div class="menu-text">
-                                            <h3><span>Standard black coffee</span> <strong>$12.00</strong></h3>
-                                            <p>Lorem ipsum dolor sit amet elit. Phasel nec preti facil</p>
+                                            <h3><span>Cervezas</span> <strong>$35.00</strong></h3>
+                                            <p>Corona, Victoria, Modelo N, Modelo.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-block">
-                                    <img src="img/menu-beverage-img.jpg" alt="Image">
+                                    <img src="img/carajillo.PNG" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -285,62 +276,7 @@
         <!-- Menu End -->
 
 
-        <!-- Footer Start -->
-        <div class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-7">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="footer-contact">
-                                    <h2>Our Address</h2>
-                                    <p><i class="fa fa-map-marker-alt"></i>123 Street, New York, USA</p>
-                                    <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                                    <p><i class="fa fa-envelope"></i>info@example.com</p>
-                                    <div class="footer-social">
-                                        <a href=""><i class="fab fa-twitter"></i></a>
-                                        <a href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a href=""><i class="fab fa-youtube"></i></a>
-                                        <a href=""><i class="fab fa-instagram"></i></a>
-                                        <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="footer-link">
-                                    <h2>Quick Links</h2>
-                                    <a href="">Terms of use</a>
-                                    <a href="">Privacy policy</a>
-                                    <a href="">Cookies</a>
-                                    <a href="">Help</a>
-                                    <a href="">FQAs</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-5">
-                        <div class="footer-newsletter">
-                            <h2>Newsletter</h2>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Quisque eu lectus a leo dictum nec non quam. Tortor eu placerat rhoncus, lorem quam iaculis felis, sed lacus neque id eros.
-                            </p>
-                            <div class="form">
-                                <input class="form-control" placeholder="Email goes here">
-                                <button class="btn custom-btn">Submit</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright">
-                <div class="container">
-                    <p>Copyright &copy; <a href="#">Your Site Name</a>, All Right Reserved.</p>
-                    <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                </div>
-            </div>
-        </div>
-        <!-- Footer End -->
-
+       
         <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
         <!-- JavaScript Libraries -->
