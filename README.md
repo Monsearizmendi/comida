@@ -1,1 +1,1 @@
-http://lajaiba.herokuapp.com/contactillo    (link de mi pagina)
+http://lajaiba.herokuapp.com   (link de mi pagina)
