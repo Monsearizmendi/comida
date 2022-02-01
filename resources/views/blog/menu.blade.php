@@ -71,7 +71,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-4">
                         <div class="food-item">
-                           <img src ="/img/cangrejo.PNG"Alt="">
+                           <img src ="/img/cangrejo.png"Alt="">
                             <h2>Mariscos</h2>
                             <p>
                             Deleita tu paladar con nuestro delicioso sabor a mar y tierra 
@@ -81,7 +81,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="food-item">
-                            <img src ="/img/postre.PNG"Alt="">
+                            <img src ="/img/postre.png"Alt="">
                             <h2>Postres</h2>
                             <p>
                                 Endulza tu paladar con nuestros ricos postres, todo preparado con las medidas de higiene necesarias para ti.
@@ -91,7 +91,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="food-item">
-                           <img src ="/img/bebida.PNG"Alt="">
+                           <img src ="/img/bebida.png"Alt="">
                             <h2>Bebidas</h2>
                             <p>
                                 Prueba nuestras bebidas, tenemos una gran variedad.
@@ -130,7 +130,7 @@
                                 <div class="col-lg-7 col-md-12">
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Caldo</span> <strong>$80.00</strong></h3>
@@ -139,7 +139,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Cocteles</span> <strong>$120.00</strong></h3>
@@ -148,7 +148,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Filetes</span> <strong>$220.00</strong></h3>
@@ -157,7 +157,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Ceviche</span> <strong>$150.00</strong></h3>
@@ -166,7 +166,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Camarones</span> <strong>$200.00</strong></h3>
@@ -175,7 +175,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-block">
-                                    <img src="img/coctel.PNG" alt="Image">
+                                    <img src="img/coctel.png" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -184,7 +184,7 @@
                                 <div class="col-lg-7 col-md-12">
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Fresas con Crema</span> <strong>$50.00</strong></h3>
@@ -193,7 +193,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Platanos con Crema</span> <strong>$50.00</strong></h3>
@@ -202,7 +202,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Flan</span> <strong>$50.00</strong></h3>
@@ -211,7 +211,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-block">
-                                    <img src="img/flan.PNG" alt="Image">
+                                    <img src="img/flan.png" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -220,7 +220,7 @@
                                 <div class="col-lg-7 col-md-12">
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>carajillos</span> <strong>$50.00</strong></h3>
@@ -229,7 +229,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Cafe</span> <strong>$25.00</strong></h3>
@@ -238,7 +238,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Refrescos</span> <strong>$25.00</strong></h3>
@@ -247,7 +247,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Agua Mineral </span> <strong>$50.00</strong></h3>
@@ -256,7 +256,7 @@
                                     </div>
                                     <div class="menu-item">
                                         <div class="menu-img">
-                                            <img src="img/jaiba.PNG" alt="Image">
+                                            <img src="img/jaiba.png" alt="Image">
                                         </div>
                                         <div class="menu-text">
                                             <h3><span>Cervezas</span> <strong>$35.00</strong></h3>
@@ -265,7 +265,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 d-none d-lg-block">
-                                    <img src="img/carajillo.PNG" alt="Image">
+                                    <img src="img/carajillo.png" alt="Image">
                                 </div>
                             </div>
                         </div>

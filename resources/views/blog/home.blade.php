@@ -57,7 +57,7 @@
                 <div class="owl-carousel">
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="img/caldo.PNG" alt="Image">
+                            <img src="img/caldo.png" alt="Image">
                         </div>
                         <div class="carousel-text">
                             <h1>La mejor <span>calidad de</span> Ingredientes</h1>
@@ -69,7 +69,7 @@
                     </div>
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="img/ostion.PNG" alt="Image">
+                            <img src="img/ostion.png" alt="Image">
                         </div>
                         <div class="carousel-text">
                             <h1>Los mejores <span>Chefs</span>
@@ -81,7 +81,7 @@
                     </div>
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="img/tostada.PNG" alt="Image">
+                            <img src="img/tostada.png" alt="Image">
                         </div>
                         <div class="carousel-text">
                             <h1>Fastest Order <span>Delivery</span></h1>
